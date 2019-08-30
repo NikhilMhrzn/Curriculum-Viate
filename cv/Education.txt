@@ -1,0 +1,8 @@
+<dt>Education</dt>
+            <dd>
+                <ul>
+                	<li>SLC from NCS in 2069 BS</li>
+                	<li>HSEB from MOLHISS in 2072 BS</li>
+                	<li>BSC.CSIT runnig at Academia Internatrional College</li>
+                </ul>
+            </dd>

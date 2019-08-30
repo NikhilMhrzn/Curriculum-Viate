@@ -1,0 +1,5 @@
+<dt>Skills</dt>
+            <dd>
+                <h2>Technical skills</h2>
+                <p>Python, Java, C, C++ </p>
+            </dd>
